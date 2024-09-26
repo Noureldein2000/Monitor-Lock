@@ -16,6 +16,7 @@ C:\Users\user-pc1\source\repos\MonitorDemo\MonitorDemo\obj\Debug\net8.0\MonitorD
 C:\Users\user-pc1\source\repos\MonitorDemo\MonitorDemo\obj\Debug\net8.0\MonitorDemo.csproj.CoreCompileInputs.cache
 C:\Users\user-pc1\source\repos\MonitorDemo\MonitorDemo\obj\Debug\net8.0\MonitorDemo.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\user-pc1\source\repos\MonitorDemo\MonitorDemo\obj\Debug\net8.0\MonitorDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user-pc1\source\repos\MonitorDemo\MonitorDemo\obj\Debug\net8.0\MonitorDemo.sourcelink.json
 C:\Users\user-pc1\source\repos\MonitorDemo\MonitorDemo\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\user-pc1\source\repos\MonitorDemo\MonitorDemo\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\user-pc1\source\repos\MonitorDemo\MonitorDemo\obj\Debug\net8.0\staticwebassets\msbuild.MonitorDemo.Microsoft.AspNetCore.StaticWebAssets.props

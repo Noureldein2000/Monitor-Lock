@@ -74,7 +74,7 @@ namespace MonitorDemo.Controllers
             var obj = dictionary.GetOrAdd(id.ToString(), new object());
             lock (obj)
             {
-
+                //enter your locking code..
             }
         }
 
